@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bright colors, avoiding dark purple and navy blue as requested -->
+    <color name="colorPrimary">#FF5722</color> <!-- Bright Orange -->
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FFEB3B</color> <!-- Bright Yellow -->
+    
+    <color name="background_light">#FAFAFA</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="info_blue">#03A9F4</color> <!-- Light bright blue -->
+    
+    <color name="circle_bg">#E0E0E0</color>
+    <color name="letter_bg">#FFFFFF</color>
+    <color name="letter_text">#333333</color>
+    <color name="letter_selected">#FF9800</color>
+    
+    <color name="line_color">#FF5722</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,142 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": ["A", "L", "F", "A"],
+      "words": ["ALFA", "FAL", "LAF", "ALA"],
+      "bonus_words": ["AFAL"],
+      "reward_xp": 100,
+      "reward_coins": 50
+    },
+    {
+      "id": 2,
+      "letters": ["K", "A", "L", "E", "M"],
+      "words": ["KALEM", "ELMA", "KALE", "MEAL", "ALEM", "MAL", "KEL", "ELA"],
+      "bonus_words": ["KELAM", "KEMAL"],
+      "reward_xp": 150,
+      "reward_coins": 75
+    },
+    {
+      "id": 3,
+      "letters": ["O", "Y", "U", "N"],
+      "words": ["OYUN", "YON", "ONU", "NUY"],
+      "bonus_words": ["YONU"],
+      "reward_xp": 200,
+      "reward_coins": 100
+    },
+    {
+      "id": 4,
+      "letters": ["S", "E", "V", "G", "İ"],
+      "words": ["SEVGİ", "SEVİ", "GEVİ", "VİSE"],
+      "bonus_words": ["GİSE"],
+      "reward_xp": 250,
+      "reward_coins": 125
+    },
+    {
+      "id": 5,
+      "letters": ["D", "O", "S", "T"],
+      "words": ["DOST", "DOTS", "SOTO", "TOD"],
+      "bonus_words": ["DOST"],
+      "reward_xp": 300,
+      "reward_coins": 150
+    },
+    {
+      "id": 6,
+      "letters": ["B", "A", "H", "Ç", "E"],
+      "words": ["BAHÇE", "BAHA", "AHÇE", "HEBA"],
+      "bonus_words": ["ÇEHBA"],
+      "reward_xp": 350,
+      "reward_coins": 175
+    },
+    {
+      "id": 7,
+      "letters": ["Y", "I", "L", "D", "I", "Z"],
+      "words": ["YILDIZ", "YILDI", "DIZI", "IZDI"],
+      "bonus_words": ["DIZIL"],
+      "reward_xp": 400,
+      "reward_coins": 200
+    },
+    {
+      "id": 8,
+      "letters": ["G", "Ü", "N", "E", "Ş"],
+      "words": ["GÜNEŞ", "GÜNE", "NEŞE", "ŞENE"],
+      "bonus_words": ["GÜNEŞE"],
+      "reward_xp": 450,
+      "reward_coins": 225
+    },
+    {
+      "id": 9,
+      "letters": ["R", "Ü", "Z", "G", "A", "R"],
+      "words": ["RÜZGAR", "RÜZGA", "UZAR", "GAZAR"],
+      "bonus_words": ["RÜZGARA"],
+      "reward_xp": 500,
+      "reward_coins": 250
+    },
+    {
+      "id": 10,
+      "letters": ["D", "E", "N", "İ", "Z"],
+      "words": ["DENİZ", "DENİ", "İZDE", "NEDİ"],
+      "bonus_words": ["DENİZE"],
+      "reward_xp": 550,
+      "reward_coins": 275
+    }
+  ],
+  "ai_data": {
+    "quotes_of_the_day": [
+      "Başarı bir yolculuktur, bir varış noktası değil.",
+      "Gelecek, bugünden hazırlananlara aittir.",
+      "Zorluklar, başarının değerini artıran süslerdir.",
+      "Büyük işler başarmak için sadece harekete geçmek yetmez, aynı zamanda hayal etmek de gerekir.",
+      "Düşmek değil, düştükten sonra kalkmamak başarısızlıktır.",
+      "Her gün yeni bir başlangıçtır.",
+      "Sabır, başarının anahtarıdır.",
+      "Bilgi güçtür, ama uygulama daha da güçlüdür.",
+      "Hayallerini küçük tutma, çünkü küçük hayaller insanların kalbini ısıtmaz.",
+      "Güçlü olmak, asla pes etmemektir."
+    ],
+    "proverbs": [
+      "Ağaç yaşken eğilir.",
+      "Damlaya damlaya göl olur.",
+      "Güneş balçıkla sıvanmaz.",
+      "Sakla samanı, gelir zamanı.",
+      "Tatlı dil yılanı deliğinden çıkarır.",
+      "Bugünün işini yarına bırakma.",
+      "El elden üstündür.",
+      "İşleyen demir pas tutmaz.",
+      "Bir elin nesi var, iki elin sesi var.",
+      "Ak akçe kara gün içindir.",
+      "Boş çuval ayakta durmaz.",
+      "Çalışmadan yemek haram.",
+      "Dost başa, düşman ayağa bakar.",
+      "Erken kalkan yol alır.",
+      "Gülme komşuna, gelir başına.",
+      "Her yiğidin bir yoğurt yiyişi vardır.",
+      "İyilik yap denize at, balık bilmezse Halik bilir.",
+      "Kaz gelen yerden tavuk esirgenmez.",
+      "Lafla peynir gemisi yürümez.",
+      "Mum dibine ışık vermez."
+    ],
+    "idioms": [
+      "Gözden düşmek - birinin gözünde değer kaybetmek",
+      "Küplere binmek - çok sinirlenip öfkelenmek",
+      "Etekleri zil çalmak - çok sevinmek, mutlu olmak",
+      "Hapı yutmak - zor bir duruma düşmek",
+      "Burnundan solumak - çok kibirli olmak",
+      "Ağzı var dili yok - çok sessiz, söz söylemeyen",
+      "Baş başa vermek - birlikte düşünmek, konuşmak",
+      "Can simidi olmak - zor durumda yardımcı olmak",
+      "Dili tutulmak - şaşkınlıktan konuşamamak",
+      "El atmak - bir işe girişmek",
+      "Fırsatı kaçırmak - uygun anı değerlendirememek",
+      "Gözü açık olmak - dikkatli ve uyanık olmak",
+      "Hava atmak - kendini beğendirmeye çalışmak",
+      "İşi gücü olmak - meşgul olmak",
+      "Kanat germek - koruyup kollamak",
+      "Kulağına küpe olmak - ders almak",
+      "Laf aramak - kavga çıkarmak için bahane aramak",
+      "Meydan okumak - karşı çıkmak, meydan vermek",
+      "Nefes almak - biraz dinlenmek",
+      "Oyun oynamak - aldatmak, kandırmak"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nebasun</string>
+    <string name="play">Oyna</string>
+    <string name="profile">Profil</string>
+    <string name="multiplayer">Çok Oyunculu</string>
+    <string name="level">Bölüm %1$d</string>
+    <string name="coins">Altın: %1$d</string>
+    <string name="xp">XP: %1$d</string>
+    <string name="quote_of_the_day">Günün Sözü</string>
+    <string name="ai_assistant">Yapay Zeka Asistanı</string>
+    <string name="ask_ai">Yapay Zekaya Sor</string>
+    <string name="next_level">Sonraki Bölüm</string>
+    <string name="level_completed">Bölüm Tamamlandı!</string>
+    <string name="reward">Ödül: %1$d XP, %2$d Altın</string>
+    <string name="open_chest">Kutu Aç</string>
+    <string name="chest_reward">Kutudan Çıkan: %1$s</string>
+</resources>
