@@ -6,9 +6,9 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:padding="24dp"
-    android:gravity="center">
+    android:gravity="center"
+    android:background="@drawable/rounded_word_bg">
 
-    <!-- Confetti emoji animation fallback -->
     <TextView
         android:id="@+id/tvConfettiEmoji"
         android:layout_width="wrap_content"
@@ -35,25 +35,23 @@
         android:textColor="@color/text_primary"
         android:layout_marginTop="8dp" />
 
-    <com.google.android.material.button.MaterialButton
+    <Button
         android:id="@+id/btnNextLevel"
         android:layout_width="match_parent"
         android:layout_height="56dp"
-        android:text="Sonraki Bölüm ➡️"
+        android:text="Sonraki Bölüm"
         android:textSize="16sp"
         android:textStyle="bold"
-        app:cornerRadius="28dp"
-        app:backgroundTint="@color/colorPrimary"
+        android:backgroundTint="@color/colorPrimary"
         android:layout_marginTop="16dp" />
 
-    <com.google.android.material.button.MaterialButton
+    <Button
         android:id="@+id/btnBackToMenu"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:text="Ana Menü"
         android:textSize="14sp"
-        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
-        app:strokeColor="@color/colorPrimary"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
         android:layout_marginTop="8dp" />
 
 </LinearLayout>

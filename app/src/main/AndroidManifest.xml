@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nebasun.game">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="true"
@@ -11,7 +10,7 @@
         android:theme="@style/Theme.Nebasun">
 
         <activity
-            android:name=".activities.SplashActivity"
+            android:name="com.nebasun.game.activities.SplashActivity"
             android:exported="true"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -21,23 +20,23 @@
         </activity>
 
         <activity
-            android:name=".activities.MainActivity"
+            android:name="com.nebasun.game.activities.MainActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name=".activities.LevelSelectActivity"
+            android:name="com.nebasun.game.activities.LevelSelectActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name=".activities.GameActivity"
+            android:name="com.nebasun.game.activities.GameActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name=".activities.ProfileActivity"
+            android:name="com.nebasun.game.activities.ProfileActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name=".activities.MultiplayerActivity"
+            android:name="com.nebasun.game.activities.MultiplayerActivity"
             android:screenOrientation="portrait" />
 
     </application>
